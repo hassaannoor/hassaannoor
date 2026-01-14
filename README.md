@@ -14,10 +14,12 @@
 
 ## 🚀 About Me
 
+<!-- Update the information below with your actual details -->
+
 ```typescript
 const hassaan = {
     pronouns: "he" | "him",
-    location: "🌍 Based in [Your City/Country]",
+    location: "🌍 Based in [Your City/Country]",  // Update with your location
     currentFocus: "Building awesome applications and learning new technologies",
     interests: ["Web Development", "Cloud Computing", "Open Source", "AI/ML"],
     funFact: "I debug in my sleep! 😴💻",
@@ -26,9 +28,9 @@ const hassaan = {
     askMeAbout: ["Web Dev", "Tech", "Software Engineering", "Best Practices"],
     
     reachMe: {
-        email: "hassaan@example.com",
-        linkedin: "linkedin.com/in/hassaannoor",
-        twitter: "@hassaannoor"
+        email: "hassaan@example.com",  // Update with your email
+        linkedin: "linkedin.com/in/hassaannoor",  // Update with your LinkedIn
+        twitter: "@hassaannoor"  // Update with your Twitter handle
     }
 };
 ```
@@ -112,6 +114,8 @@ const hassaan = {
 
 ## 💼 Featured Projects
 
+<!-- Replace 'project-name-1' and 'project-name-2' with your actual repository names -->
+
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassaannoor&repo=project-name-1&theme=tokyonight&hide_border=true)](https://github.com/hassaannoor/project-name-1)
@@ -122,6 +126,8 @@ const hassaan = {
 ---
 
 ## 📫 Let's Connect!
+
+<!-- Update the links below with your actual social media profiles -->
 
 <div align="center">
   
