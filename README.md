@@ -6,15 +6,23 @@ I build systems. Mostly around automation, developer tooling, and web infrastruc
 
 ### I’m currently working on
 
-* AI agent workflow systems
-* UI component extraction → Tailwind generator
-* High-leverage automation tools
+- AI agent workflow systems
+- High-leverage automation tools
+- **reparte** — A fully-local voice partner for interview/negotiation practice (faster-whisper STT + Granite 4.1 3B LLM + pocket-tts), with live VAD-based barge-in interruption.
+- **token-injection** — "tokenject," a library + web playground for live token interception/injection/steering of local LLMs (append/replace tokens, response prefix, temperature ramp).
+- **Doodle Mate** - a React whiteboard that animates text/images/shapes being sketched on, with per-object timeline, multi-page decks, slide transitions, and MP4 export.
+- **jiggler** — A React soft-body physics playground where you spawn a wobbly frog and poke aorund with it.
+- **number-counter-maker** — A SvelteKit tool that renders an animated counting-number video (configurable range, duration, fps, easing, styling) and exports it as MP4/MOV via ffmpeg-wasm.
+- **dino-rl** - a from-scratch Double-DQN agent (no ML libraries) that learns to play the Chrome offline Dino game in the browser from game state.
+ 
 
 ### I’m currently learning
 
 * Better system design for long-running workflows
 * More robust approaches to handling unstable external platforms
 * Deeper internals of LLM tooling and orchestration
+* Word-embedding experiments (clustering, similar-word search across English/Latin/Greek, a "concept finder")
+
 
 ### I’m looking to collaborate on
 
